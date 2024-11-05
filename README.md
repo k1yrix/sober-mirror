@@ -1,9 +1,5 @@
 # <img width="48" src="sober.svg">   Sober
 
-Sober lets users visit Roblox experiences on their Linux desktops.
+This is just a fork that acts as a mirror for the sober.flatpakref file (just in case in an event Cloudflare screwed up the web hosting)
 
-Not affiliated with Roblox.
-
-This GitHub repository serves as a issue tracker for bugs or feature suggestions.
-
-See [sober.vinegarhq.org](https://sober.vinegarhq.org) for more information.
+You should go see [sober.vinegarhq.org](https://sober.vinegarhq.org) or [VinegarHQ/Sober](https://github.com/vinegarhq/sober) for information.
