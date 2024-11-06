@@ -1,7 +1,7 @@
 [Flatpak Ref]
 Title=Sober
 Name=org.vinegarhq.Sober
-Url=https://sober.vinegarhq.org/repo/
+Url=https://kirbix12.github.io/sober-mirror/repo/
 SuggestRemoteName=sober
 Homepage=https://sober.vinegarhq.org
 Icon=https://sober.vinegarhq.org/sober.svg
